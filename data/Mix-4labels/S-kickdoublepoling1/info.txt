@@ -1,0 +1,6 @@
+5000	35000	KickDoublePoling
+60000	90000	KickDoublePoling
+113000	138000	KickDoublePoling
+165000	192000	KickDoublePoling
+220000	245000	KickDoublePoling
+270000	298000	KickDoublePoling

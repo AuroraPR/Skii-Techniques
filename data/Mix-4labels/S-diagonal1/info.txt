@@ -1,0 +1,5 @@
+1000	25000	Diagonal
+50000	75000	Diagonal
+100000	128000	Diagonal
+155000	180000	Diagonal
+210000	235000	Diagonal

@@ -1,0 +1,5 @@
+5000	25000	S-Herringbone
+48000	72000	S-Herringbone
+97000	119000	S-Herringbone
+140000	165000	S-Herringbone
+188000	212000	S-Herringbone

@@ -1,0 +1,4 @@
+5000	30000	Snozone
+48000	75000	Snozone
+97000	119000	Snozone
+140000	165000	Snozone

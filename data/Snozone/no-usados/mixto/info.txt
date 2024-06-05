@@ -1,0 +1,4 @@
+8000	25000	S-Diagonal
+47000	68000	S-Herringbone
+92000	115000	S-KickDoublePoling
+140000	160000	S-DoublePoling

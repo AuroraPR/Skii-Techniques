@@ -1,0 +1,4 @@
+5000	30000	Herringbone
+48000	75000	Herringbone
+97000	119000	Herringbone
+140000	165000	Herringbone

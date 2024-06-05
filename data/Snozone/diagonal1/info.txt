@@ -1,0 +1,5 @@
+1000	25000	S-Diagonal
+50000	75000	S-Diagonal
+100000	128000	S-Diagonal
+155000	180000	S-Diagonal
+210000	235000	S-Diagonal

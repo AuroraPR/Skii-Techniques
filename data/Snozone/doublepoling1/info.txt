@@ -1,0 +1,6 @@
+8000	28000	S-DoublePoling
+58000	75000	S-DoublePoling
+108000	130000	S-DoublePoling
+160000	185000	S-DoublePoling
+215000	243000	S-DoublePoling
+270000	295000	S-DoublePoling

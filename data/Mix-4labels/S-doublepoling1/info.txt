@@ -1,0 +1,6 @@
+8000	28000	DoublePoling
+58000	75000	DoublePoling
+108000	130000	DoublePoling
+160000	185000	DoublePoling
+215000	243000	DoublePoling
+270000	295000	DoublePoling

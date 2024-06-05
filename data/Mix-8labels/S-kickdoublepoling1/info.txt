@@ -1,0 +1,6 @@
+5000	35000	S-KickDoublePoling
+60000	90000	S-KickDoublePoling
+113000	138000	S-KickDoublePoling
+165000	192000	S-KickDoublePoling
+220000	245000	S-KickDoublePoling
+270000	298000	S-KickDoublePoling

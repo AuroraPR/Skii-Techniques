@@ -1,0 +1,2 @@
+525000	595000	B-KickDoublePoling
+715000	820000	B-KickDoublePoling

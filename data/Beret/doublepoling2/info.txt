@@ -1,0 +1,2 @@
+515000	580000	B-DoublePoling
+670000	740000	B-DoublePoling
